@@ -15,14 +15,3 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: "true"
-          SHOW_TOTAL: "true"
-          SHOW_TIME: "true"
-          SHOW_LANGUAGE: "true"
-          SHOW_PROJECTS: "true"
-          SHOW_EDITORS: "false"
-          SHOW_OS: "false"
-          SHOW_COMMIT: "true"
-          SHOW_LINES_OF_CODE: "true"
-          SHOW_SHORT_INFO: "false"
-          COMMIT_MESSAGE: "✨ WakaTime stats updated"
