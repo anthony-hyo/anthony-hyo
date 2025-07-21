@@ -17,8 +17,8 @@
 
 ### ✨ About Me
 
-- 🔭 Currently conjuring spells in Java, Laravel and Node.js  
-- 🧙‍♂️ Exploring the dark arts of Unity3D & C#  
+- 🔭 Currently conjuring spells in Java, Laravel and Node.js
+- 🧙‍♂️ Exploring the dark arts of Unity3D & C#
 
 ---
 
@@ -93,15 +93,11 @@
 
 ---
 
-### 📊 GitHub Stats (Magic Metrics)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthony-hyo&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anthony-hyo&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/anthony-hyo/github-stats-transparent/refs/heads/output/generated/languages.svg" width="49%" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/anthony-hyo/github-stats-transparent/refs/heads/output/generated/overview.svg" width="49%" alt="Overview" />
 </p>
 
 ---
@@ -114,6 +110,6 @@
 
 ---
 
-<h3 align="center">
+<h4 align="center">
   💙 Powered by chaos and a little bit of magic.
-</h3>
+</h4>
