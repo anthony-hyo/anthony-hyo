@@ -19,8 +19,8 @@
 - 🔭 Currently working with **Java**, **Laravel**, and **Node.js**
 - ⚡ Specialized in **RESTful APIs**, **microservices**, **WebSockets**, and **asynchronous processing**
 - 🎯 Focused on backend performance, queue systems, and transactional consistency
-- 📚 Pursuing a **Bachelor's Degree in Computer Science** to complement practical experience with formal education
-- 🌍 Open to **remote and global opportunities** — fluent in technical English (reading and writing)
+- 📚 Pursuing a **Bachelor's Degree in Computer Science**
+- 🌍 Open to **remote opportunities** — fluent in technical English
 
 ---
 
@@ -97,9 +97,9 @@
 
 ### 🧠 Currently Learning
 
-- **Angular** – building scalable SPAs with component-based architecture  
-- **Spring Boot (Java)** – developing robust and scalable backend APIs  
-- **Unity 3D** – exploring game development and advanced C# scripting
+- **Angular** – Building scalable SPAs  
+- **Spring Boot** – Robust backend APIs  
+- **Unity 3D** – Game development & C# scripting
 
 ---
 
