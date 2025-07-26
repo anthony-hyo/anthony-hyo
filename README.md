@@ -45,8 +45,6 @@
 ![ActionScript](https://img.shields.io/badge/ActionScript-df2002?style=flat&logoColor=white)
 
 #### 🔌 APIs, ORMs & Protocols
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-df2002?style=flat)
-![JDA](https://img.shields.io/badge/JDA-df2002?style=flat&logo=discord&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-df2002?style=flat)
 ![WebSockets](https://img.shields.io/badge/WebSockets-df2002?style=flat)
 ![TCP](https://img.shields.io/badge/TCP-df2002?style=flat)
@@ -57,8 +55,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-df2002?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-df2002?style=flat&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-df2002?style=flat&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-df2002?style=flat)
-![JDA](https://img.shields.io/badge/JDA-df2002?style=flat&logo=discord&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-df2002?style=flat&logo=redis&logoColor=white)
 
 #### ⚙️ DevOps & Tools
