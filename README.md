@@ -1,15 +1,7 @@
 <h2 align="center">✨ Welcome to My Realm — Where Code Meets Craft ✨</h2>
 
 <p align="center">
-  <img src="https://anthhyo.dev/megumin.gif" alt="Megumin" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anthony-hyo&label=Visitors&color=df2002&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  💻 Experienced Backend Developer with over 7 years working primarily with **Java**, **PHP**, and **TypeScript/JavaScript**. Skilled in building scalable, maintainable systems with clean architecture and high performance.
+  💻 Experienced Backend Developer with over 7 years working primarily with Java, PHP, and TypeScript/JavaScript. Skilled in building scalable, maintainable systems with clean architecture and high performance.
 </p>
 
 ---
@@ -110,6 +102,10 @@
 [![Email](https://img.shields.io/badge/Email-contact@anthhyo.dev-df2002?style=flat&logo=gmail)](mailto:contact@anthhyo.dev)
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anthony-hyo&label=Visitors&color=df2002&style=flat" alt="Profile views" />
+</p>
 
 <h4 align="center">
   💙 Powered by chaos and a little bit of magic.
