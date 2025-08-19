@@ -56,6 +56,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle-df2002?style=flat&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-df2002?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-df2002?style=flat&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/Gitlab-df2002?style=flat&logo=gitlab&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-df2002?style=flat)
 ![JDA](https://img.shields.io/badge/JDA-df2002?style=flat&logo=discord&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-df2002?style=flat&logo=cloudflare&logoColor=white)
