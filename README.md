@@ -105,9 +105,9 @@
 
 ### 🧠 Currently Learning
 
-- **Angular** – Building scalable SPAs  
-- **Spring Boot** – Robust backend APIs  
-- **Unity 3D** – Game development & C# scripting
+- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ---
 
