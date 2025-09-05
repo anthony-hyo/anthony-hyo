@@ -86,6 +86,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-009879?style=flat&logo=notepadplusplus&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white)
+![Adobe Animate](https://img.shields.io/badge/Adobe%20Animate-FF0000?style=flat&logo=adobe%20animate&logoColor=white)
 
 #### 🖥️ Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
