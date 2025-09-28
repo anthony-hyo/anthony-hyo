@@ -95,8 +95,8 @@
 ![Adobe Animate](https://img.shields.io/badge/Adobe%20Animate-FF0000?style=flat&logo=adobe%20animate&logoColor=white)
 
 #### 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]
-![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)]
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 ![Windows Server](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
