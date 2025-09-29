@@ -2,6 +2,7 @@
 
 <p align="center">
   Experienced Backend Developer with over 7 years working primarily with Java, PHP, and TypeScript/JavaScript.
+  Experienced Backend Developer with 7+ years working with Java, PHP, and TypeScript/JavaScript. Passionate about building scalable, high-performance systems, with expertise in microservice architectures and RESTful API optimization. Currently expanding my knowledge in Computer Science while exploring emerging technologies like Rust. Open to remote opportunities and fluent in technical English.
 </p>
 
 ---
