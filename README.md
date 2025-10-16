@@ -11,7 +11,7 @@
 
 - 🎯 Focused on backend performance.
 - 📚 Pursuing a **Bachelor's Degree in Computer Science**
-- 🌍 Open to **remote opportunities** — fluent in technical English
+- 🌍 Open to **remote opportunities**
 
 ---
 
