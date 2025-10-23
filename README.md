@@ -18,6 +18,10 @@
   <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" height="100px" />
 </a>
 
+<a href="https://www.skills.google/public_profiles/b6c6a37f-6914-42e5-a507-a070cc38a720" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Prompt Design in Vertex AI Skill Badge" height="100px" />
+</a>
+
 ---
 
 ### 🛠️ Tech Stack
