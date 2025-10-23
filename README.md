@@ -13,6 +13,11 @@
 - 📚 Pursuing a **Bachelor's Degree in Computer Science**
 - 🌍 Open to **remote opportunities**
 
+### 🏆 Certificates
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=829C6F456456B6D757DBD223A79B6275EEADD7B036A03084CEBF282A2D9FFCAB" target="_blank">
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" height="100px" />
+</a>
+
 ---
 
 ### 🛠️ Tech Stack
