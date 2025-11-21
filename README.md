@@ -14,6 +14,10 @@
 - 🌍 Open to **remote opportunities**
 
 ### 🏆 Certificates
+<a href="https://www.credly.com/badges/5dc06a62-d6a4-4102-9a74-97e13587fff6" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="Google Cloud Computing Foundations Certificate" height="100px" />
+</a>
+
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=829C6F456456B6D757DBD223A79B6275EEADD7B036A03084CEBF282A2D9FFCAB" target="_blank">
   <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" height="100px" />
 </a>
